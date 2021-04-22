@@ -1,0 +1,2 @@
+# -
+Termux   power full tools
